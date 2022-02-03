@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "supermercado";
+    src: url("police/SupermercadoOne-Regular.ttf")
+}
+h1
+{
+    color: #000261;
+    text-align: center;
+    font-family: "supermercado";
+    border: 3px #000261 solid;
+    box-shadow: 10px 13px 9px #87b9fa;
+}
+body
+{
+    background-image: url(pluie.jpg);
+}
